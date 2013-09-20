@@ -1,6 +1,6 @@
 {
   "name": "videojs-doc-generator",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Documentation generator for the Video.js codebase and plugins",
   "homepage": "https://github.com/videojs/doc-generator",
   "bugs": "https://github.com/videojs/doc-generator/issues",
@@ -9,7 +9,10 @@
     "url": "http://blog.heff.me"
   },
   "keywords": [
-    "videojs", "gruntplugin", "docs", "esprima"
+    "videojs",
+    "gruntplugin",
+    "docs",
+    "esprima"
   ],
   "repository": {
     "type": "git",
