@@ -1,6 +1,6 @@
 'use strict';
 
-var docs = require('../lib/videojs-docs.js'),
+var docs = require('../lib/videojs-doc-generator.js'),
     fs = require('fs');
 
 // function compare(js, json, callback) {
@@ -54,7 +54,6 @@ exports['docs_test'] = {
         baseURL: 'http://example.com/'
       }, 
       function(err, results){
-        // console.log('=============\n\n', results['MyNameSpace.MyClass.md'], '\n\n=================');
         test.equal(results['MyNameSpace.MyClass.md'], expected);
         test.done();
       }

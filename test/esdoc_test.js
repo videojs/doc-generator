@@ -81,7 +81,6 @@ exports['esdoc'] = {
     test.expect(1);
 
     compare('class-static-method.js', 'class-static-method.json', function(output, expected){
-      // console.log(JSON.stringify(output, null, 2));
       test.deepEqual(output, expected);
       test.done();
     });

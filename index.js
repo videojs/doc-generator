@@ -1,1 +1,1 @@
-module.exports = require('./lib/videojs-docs');
+module.exports = require('./lib/videojs-doc-generator');
