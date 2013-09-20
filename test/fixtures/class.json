@@ -1,0 +1,24 @@
+{
+  "MyNameSpace.MyClass": {
+    "src": {
+      "line": 8,
+      "url": "http://example.com/file.js"
+    },
+    "name": "MyClass",
+    "type": "class",
+    "memberof": "MyNameSpace",
+    "id": "MyNameSpace.MyClass",
+    "description": "example class",
+    "summary": "example class",
+    "inherits": "MyNameSpace.MySuperClass",
+    "params": [
+      {
+        "types": [
+          "Object"
+        ],
+        "name": "options",
+        "description": "An options object"
+      }
+    ]
+  }
+}

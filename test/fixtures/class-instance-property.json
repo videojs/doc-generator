@@ -1,0 +1,19 @@
+{
+  "MyNameSpace.MyClass#options": {
+    "src": {
+      "line": 7,
+      "url": "http://example.com/file.js"
+    },
+    "name": "options",
+    "type": "member",
+    "description": "public property",
+    "summary": "public property",
+    "memberof": "MyNameSpace.MyClass",
+    "id": "MyNameSpace.MyClass#options",
+    "instance": true,
+    "types": [
+      "Object"
+    ],
+    "public": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MyNameSpace.privateProp": {
+    "src": {
+      "line": 5,
+      "url": "http://example.com/file.js"
+    },
+    "name": "privateProp",
+    "type": "member",
+    "description": "private property",
+    "summary": "private property",
+    "memberof": "MyNameSpace",
+    "id": "MyNameSpace.privateProp",
+    "private": true
+  }
+}

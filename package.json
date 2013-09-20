@@ -1,0 +1,34 @@
+{
+  "name": "esdoc",
+  "version": "0.0.0",
+  "description": "Documentation generator using esprima",
+  "homepage": "https://github.com/heff/esdoc",
+  "bugs": "https://github.com/heff/esdoc/issues",
+  "author": {
+    "name": "Steve Heffernan",
+    "email": "",
+    "url": "http://blog.heff.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heff/esdoc"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0",
+    "dox": "~0.4.4",
+    "esprima": "~1.0.3",
+    "estraverse": "~1.3.0",
+    "lodash": "~1.3.1"
+  },
+  "dependencies": {
+    "escope": "~1.0.0",
+    "mkdirp": "~0.3.5"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "MyNameSpace.MyClass.staticDoSomething": {
+    "src": {
+      "line": 7,
+      "url": "http://example.com/file.js"
+    },
+    "name": "staticDoSomething",
+    "type": "function",
+    "memberof": "MyNameSpace.MyClass",
+    "id": "MyNameSpace.MyClass.staticDoSomething",
+    "description": "static method",
+    "summary": "static method",
+    "params": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "param1",
+        "description": "an example parameter"
+      }
+    ],
+    "returns": [
+      {
+        "types": [
+          "String"
+        ],
+        "description": "returns param1"
+      }
+    ]
+  }
+}

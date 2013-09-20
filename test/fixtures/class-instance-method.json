@@ -1,0 +1,32 @@
+{
+  "MyNameSpace.MyClass#doSomething": {
+    "src": {
+      "line": 7,
+      "url": "http://example.com/file.js"
+    },
+    "name": "doSomething",
+    "type": "function",
+    "memberof": "MyNameSpace.MyClass",
+    "id": "MyNameSpace.MyClass#doSomething",
+    "instance": true,
+    "description": "instance method",
+    "summary": "instance method",
+    "params": [
+      {
+        "types": [
+          "String"
+        ],
+        "name": "param1",
+        "description": "an example parameter"
+      }
+    ],
+    "returns": [
+      {
+        "types": [
+          "String"
+        ],
+        "description": "returns param1"
+      }
+    ]
+  }
+}
